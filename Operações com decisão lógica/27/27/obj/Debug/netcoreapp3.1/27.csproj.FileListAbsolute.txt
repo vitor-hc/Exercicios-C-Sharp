@@ -1,0 +1,13 @@
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com decisão lógica\27\27\bin\Debug\netcoreapp3.1\27.exe
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com decisão lógica\27\27\bin\Debug\netcoreapp3.1\27.deps.json
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com decisão lógica\27\27\bin\Debug\netcoreapp3.1\27.runtimeconfig.json
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com decisão lógica\27\27\bin\Debug\netcoreapp3.1\27.runtimeconfig.dev.json
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com decisão lógica\27\27\bin\Debug\netcoreapp3.1\27.dll
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com decisão lógica\27\27\bin\Debug\netcoreapp3.1\27.pdb
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com decisão lógica\27\27\obj\Debug\netcoreapp3.1\27.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com decisão lógica\27\27\obj\Debug\netcoreapp3.1\27.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com decisão lógica\27\27\obj\Debug\netcoreapp3.1\27.AssemblyInfoInputs.cache
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com decisão lógica\27\27\obj\Debug\netcoreapp3.1\27.AssemblyInfo.cs
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com decisão lógica\27\27\obj\Debug\netcoreapp3.1\27.dll
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com decisão lógica\27\27\obj\Debug\netcoreapp3.1\27.pdb
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com decisão lógica\27\27\obj\Debug\netcoreapp3.1\27.genruntimeconfig.cache

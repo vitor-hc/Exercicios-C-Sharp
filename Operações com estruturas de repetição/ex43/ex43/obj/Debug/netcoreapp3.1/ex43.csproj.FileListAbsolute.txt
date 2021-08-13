@@ -1,0 +1,13 @@
+D:\Documento\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\ex43\ex43\bin\Debug\netcoreapp3.1\ex43.exe
+D:\Documento\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\ex43\ex43\bin\Debug\netcoreapp3.1\ex43.deps.json
+D:\Documento\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\ex43\ex43\bin\Debug\netcoreapp3.1\ex43.runtimeconfig.json
+D:\Documento\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\ex43\ex43\bin\Debug\netcoreapp3.1\ex43.runtimeconfig.dev.json
+D:\Documento\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\ex43\ex43\bin\Debug\netcoreapp3.1\ex43.dll
+D:\Documento\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\ex43\ex43\bin\Debug\netcoreapp3.1\ex43.pdb
+D:\Documento\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\ex43\ex43\obj\Debug\netcoreapp3.1\ex43.csprojAssemblyReference.cache
+D:\Documento\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\ex43\ex43\obj\Debug\netcoreapp3.1\ex43.AssemblyInfoInputs.cache
+D:\Documento\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\ex43\ex43\obj\Debug\netcoreapp3.1\ex43.AssemblyInfo.cs
+D:\Documento\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\ex43\ex43\obj\Debug\netcoreapp3.1\ex43.csproj.CoreCompileInputs.cache
+D:\Documento\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\ex43\ex43\obj\Debug\netcoreapp3.1\ex43.dll
+D:\Documento\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\ex43\ex43\obj\Debug\netcoreapp3.1\ex43.pdb
+D:\Documento\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\ex43\ex43\obj\Debug\netcoreapp3.1\ex43.genruntimeconfig.cache

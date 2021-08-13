@@ -1,0 +1,13 @@
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\477\477\bin\Debug\netcoreapp3.1\477.exe
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\477\477\bin\Debug\netcoreapp3.1\477.deps.json
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\477\477\bin\Debug\netcoreapp3.1\477.runtimeconfig.json
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\477\477\bin\Debug\netcoreapp3.1\477.runtimeconfig.dev.json
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\477\477\bin\Debug\netcoreapp3.1\477.dll
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\477\477\bin\Debug\netcoreapp3.1\477.pdb
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\477\477\obj\Debug\netcoreapp3.1\477.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\477\477\obj\Debug\netcoreapp3.1\477.AssemblyInfoInputs.cache
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\477\477\obj\Debug\netcoreapp3.1\477.AssemblyInfo.cs
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\477\477\obj\Debug\netcoreapp3.1\477.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\477\477\obj\Debug\netcoreapp3.1\477.dll
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\477\477\obj\Debug\netcoreapp3.1\477.pdb
+C:\Users\Vitor\Documents\ADS2020-1\Programação Estruturada\Lista de Exercícios\Operações com estruturas de repetição\477\477\obj\Debug\netcoreapp3.1\477.genruntimeconfig.cache
